@@ -5,6 +5,7 @@ A modern and responsive contact form built with HTML, CSS, and JavaScript, featu
 ---
 
 # Features
+
 - Client-side form validation for:
   - Full Name
   - Email (with proper format check)
@@ -18,14 +19,15 @@ A modern and responsive contact form built with HTML, CSS, and JavaScript, featu
 ---
 
 # Project Structure
-contact-form-project/
-│── index.html 
-│── Task22.html 
-│── Task2.css 
-│── Task2.js 
+
+  responsive-contact-form/
+  │__ Task2.html 
+  │__ Task22.html 
+  │__ Task2.css 
+  │__ Task2.js 
 
 
-
+---
 
 # Technologies Used
 
@@ -34,5 +36,6 @@ contact-form-project/
 - CSS3
 
 - JavaScript
+
 
 
