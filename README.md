@@ -19,10 +19,10 @@ A modern and responsive contact form built with HTML, CSS, and JavaScript, featu
 
 # Project Structure
 contact-form-project/
-│── index.html # Main contact form page
-│── Task22.html # Success page
-│── Task2.css # CSS styling
-│── Task2.js # JavaScript validation
+│── index.html 
+│── Task22.html 
+│── Task2.css 
+│── Task2.js 
 
 
 
@@ -34,4 +34,5 @@ contact-form-project/
 - CSS3
 
 - JavaScript
+
 
